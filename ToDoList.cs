@@ -37,6 +37,6 @@ class ToDoList
             }
         } while (input != "3");
 
-        Console.WriteLine("Programm beendet.");
+        Console.WriteLine("Programm wird beendet.");
     }
 }
